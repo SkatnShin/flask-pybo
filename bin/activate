@@ -88,3 +88,4 @@ hash -r 2>/dev/null
 
 export FLASK_APP=pybo
 export FLASK_DEBUG=true
+export APP_CONFIG_FILE=/home/ubuntu/myprojects/config/development.py
